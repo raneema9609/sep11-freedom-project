@@ -1,13 +1,18 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: ** KABOOM**
 
-## Project: **X**
+## Project: ** Icecream Simulator**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/23/26:
+* I looked into some examples of KABOOM code, and found out how different words are used.
+
+EX. "fixed() => FixedComp =
+Makes object unaffected by camera or parent object transforms, and render at last."
+
+* I started using the starter code given and copied it into my IDE in order to tinker with my tool. This was helpful since I didn't now how to start or how to use its functions. (CODE SHOWCASED)[https://kaboomjs.com/]
 
 ### X/X/XX:
 * Text

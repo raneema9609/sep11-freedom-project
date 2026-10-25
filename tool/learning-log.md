@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: ** KABOOM**
+## Tool: **KABOOM**
 
-## Project: ** Icecream Simulator**
+## Project: **Icecream Simulator**
 
 ---
 
@@ -12,7 +12,7 @@
 EX. "fixed() => FixedComp =
 Makes object unaffected by camera or parent object transforms, and render at last."
 
-* I started using the starter code given and copied it into my IDE in order to tinker with my tool. This was helpful since I didn't now how to start or how to use its functions. (CODE SHOWCASED)[https://kaboomjs.com/]
+* I started using the starter code given and copied it into my IDE in order to tinker with my tool. This was helpful since I didn't now how to start or how to use its functions. [CODE SHOWCASED](https://kaboomjs.com/)
 
 ### X/X/XX:
 * Text

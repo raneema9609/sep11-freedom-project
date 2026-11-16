@@ -29,7 +29,12 @@ Makes object unaffected by camera or parent object transforms, and render at las
 
 * (The original code I tinkered with is linked on <u>KABOOM.html</u>)
 
-* I started learning about the differences of Kaboom.js code compared to regular javascript/ other websites format.
+* I started learning about the differences of Kaboom.js code compared to regular javascript/ other websites format. This is because everytime I see KABOOM code, it always starts off with :
+``` js 
+<script src="https://unpkg.com/kaboom/dist/kaboom.js"></script>
+```
+
+
 
 
 <!-- 

@@ -27,7 +27,9 @@ Makes object unaffected by camera or parent object transforms, and render at las
 
 * I explored the different types of code on the KABOOM website and I played around with [confetti](https://kaboomjs.com/play?example=confetti) by messing around with the colors + different placements and how it can affect the code.
 
-* 
+* (The original code I tinkered with is linked on <u>KABOOM.html</u>)
+
+* I started learning about the differences of Kaboom.js code compared to regular javascript/ other websites format.
 
 
 <!-- 

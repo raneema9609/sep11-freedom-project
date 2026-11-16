@@ -23,6 +23,12 @@ Makes object unaffected by camera or parent object transforms, and render at las
 
 * In their [Website](https://kaboomjs.com/), it shows a little game in the playground where I play around with the code as I wrote above; but i also use it to change colors, numbers, etc. (rotation, placement, etc.)
 
+### 11/15/26
+
+* I explored the different types of code on the KABOOM website and I played around with [confetti](https://kaboomjs.com/play?example=confetti) by messing around with the colors + different placements and how it can affect the code.
+
+* 
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
